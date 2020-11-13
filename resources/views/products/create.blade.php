@@ -77,7 +77,7 @@
 
             <div class="form-group">
 
-                <strong>Detail:</strong>
+                <strong>Details:</strong>
 
                 <textarea class="form-control" style="height:150px" name="detail" placeholder="Detail"></textarea>
 
